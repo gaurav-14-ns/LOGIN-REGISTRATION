@@ -1,6 +1,7 @@
 # LOGIN-REGISTRATION
 This is a beginner level login-registration code which includes Python and MySQL.
 The main output is basically -
+
 ===MENU===
 1. LOGIN
 2. REGISTER
