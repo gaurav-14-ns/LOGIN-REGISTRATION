@@ -6,7 +6,6 @@ The main output is basically -
 1. LOGIN
 2. REGISTER
 3. EXIT 
-Enter your choice (in number) - 
 
 I have managed wrong user input in every options they are provided with. 
 
